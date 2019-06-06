@@ -3,6 +3,7 @@
     height: 375px;
     background: #F7F1E7;
     position: relative;
+
 }
 
 .top-header {
@@ -18,7 +19,8 @@
     width: 100px;
     height: 40px;
     background: #536A63;
-    float: left;
+    display: inline-block;
+    margin-right: 25%;
 }
 
 .logo {
@@ -34,5 +36,6 @@
     width: 100px;
     height: 40px;
     background: #536A63;
-    float: right;
+    display: inline-block;
+    margin-left: 25%;
 }
